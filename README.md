@@ -1,5 +1,9 @@
 # E-BIKE-NAVIGATION-WITH-PARKING-ASSISTANCE.
-A futuristic web application built to enhance e-bike commuting experience with real-time navigation, weather alerts, parking assistance, and object detection — all in one platform.
+A futuristic web application built for "mobiles" to enhance e-bike commuting experience with real-time navigation, weather alerts, parking assistance, and object detection — all in one platform.
+
+Feel free to visit the actual project:
+https://67c1cb4a7b60680082054815--zesty-twilight-e6ef17.netlify.app/
+
 🌟 Features
 📍 Real-Time Navigation: Plan your cycling route with step-by-step guidance using OpenRouteService API.
 
